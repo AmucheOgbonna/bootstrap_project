@@ -1,0 +1,15 @@
+#product{
+    background-color:#f1f1f1;
+    padding:60px;
+}
+
+ #product .col-4{
+     border:5px solid #efeded;
+ }
+ #product img{
+     /* height: 500px; */
+ }
+
+  #product .col-4:hover{
+      background-color:#e9e8e6;
+  }

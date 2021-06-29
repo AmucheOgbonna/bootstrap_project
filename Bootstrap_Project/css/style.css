@@ -1,0 +1,16 @@
+
+#slide1{
+	background-image:linear-gradient(rgba(0,0,255,0.1), rgba(0,0,255,0.1)), url(../images/trig.jpg);
+	height: 750px;
+	width: 100%;	
+}
+#slide2{
+	background-image:linear-gradient(rgba(0,0,255,0.3), rgba(0,0,255,0.3)), url(../images/algebra.jpg);
+	height: 750px;
+	width: 100%;
+}
+#slide3{
+	background-image:linear-gradient(rgba(0,0,255,0.3), rgba(0,0,255,0.3)), url(../images/slide.jpg);
+	height: 750px;
+	width: 100%;
+}
